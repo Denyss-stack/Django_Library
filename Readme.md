@@ -14,5 +14,7 @@ For more information about **Model**, **Views**, **Django templates** you can ch
 - Clone this repo to directory you prefer
 - Create virtual environment **venv** in your CLI use **python -m venv venv** or **pip install virtualenv** than activate in cmd **venv\Scripts\activate.bat**
 - Run application **python manage.py runserver**
+### Scrapper
+I made a scrapper for all books and possible links on the page **[Scrapper](https://github.com/Denyss-stack/Scrapper_for_Library)**
 
 
